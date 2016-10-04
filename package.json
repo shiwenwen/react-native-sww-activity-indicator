@@ -1,22 +1,22 @@
 {
-    "version": "1.0.0",
-    "name": "react-native-sww-activity-indicator",
-    "description": "",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/shiwenwen/react-native-sww-activity-indicator"
-    },
-    "license": "MIT",
-    "main": "./index.js",
-    "keywords": [
-        "react-component",
-        "react-native",
-        "ios",
-        "android",
-        "HUD",
-        "activityIndicator"
-    ],
-    "dependencies": {
-        "react-native-root-siblings": "^1.0.7",
-    }
+  "name": "react-native-sww-activity-indicator",
+  "version": "1.0.0",
+  "description": "react native ActivityIndicator like component, pure javascript solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiwenwen/react-native-sww-activity-indicator.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shiwenwen/react-native-sww-activity-indicator/issues"
+  },
+  "homepage": "https://github.com/shiwenwen/react-native-sww-activity-indicator#readme",
+  "dependencies": {
+    "react-timer-mixin": "^0.13.3"
+  }
 }
