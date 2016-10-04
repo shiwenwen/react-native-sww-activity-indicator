@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "name": "react-native-sww-activity-indicator",
+    "description": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shiwenwen/react-native-sww-activity-indicator"
+    },
+    "license": "MIT",
+    "main": "./index.js",
+    "keywords": [
+        "react-component",
+        "react-native",
+        "ios",
+        "android",
+        "HUD",
+        "activityIndicator"
+    ],
+    "dependencies": {
+        "react-native-root-siblings": "^1.0.7",
+    }
+}
