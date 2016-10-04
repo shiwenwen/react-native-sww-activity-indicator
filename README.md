@@ -1,4 +1,4 @@
-# react-native-sww-toast
+# react-native-sww-activity-indicator
 兼容ios android的toast ActivityIndicator 支持文字指示（例如显示进度）， 菊花会有个透明背景遮挡住下面的所有视图，拦截住点击
 ###使用方法
 
@@ -14,6 +14,7 @@
 		
 		
 ###示例
+ ![image](https://github.com/shiwenwen/react-native-sww-activity-indicator/blob/master/SActivityIndicator.gif)
 
 		
 
